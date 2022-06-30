@@ -85,6 +85,7 @@
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^12.1.4",
     "@testing-library/react-hooks": "^7.0.2",
+    "@types/inquirer": "^8.2.1",
     "@types/jest": "^27.4.1",
     "@types/lodash.debounce": "^4.0.6",
     "@types/react": "^18.0.0",
